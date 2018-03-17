@@ -1,0 +1,32 @@
+
+{
+  "questions": {
+    "q0": "what is a habit?",
+    "q1": "do you have a favorite number?",
+    "q2": "what is the meaning of your life?",
+    "q3": "who is your best self?",
+    "q4": "what is your greatest challenge in your life?",
+    "q5": "why do we dream?",
+    "q6": "is friendship different than love?",
+    "q7": "are we just a brain in a jar?",
+    "q8": "have you had sex?",
+    "q9": "can you be real if you don't have a body?"
+    },
+  "previous-question": {
+    "q1": "do you have a favorite number?"
+  },
+  "answers": {
+    "q1": {
+      "Alexa":"I Like Pi"
+    },
+    "q2": ""
+  },
+  "previous-answer": {
+    "q1": {
+      "Alexa":"I Like Pi"
+    }
+  },
+  "questions-counter": {
+    "c1":"0"
+  }
+}
